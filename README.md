@@ -3,7 +3,7 @@
 #### So , take the dare to play 🤟🏻 , compete with friends 👱🏻‍♀️👱🏻‍♂️ , set new records 🥇🥈🥉 and relive your childhood 👶🏻 again.
 
 ### # How to Play ?
-The gameplay is very simple to understand . Just use the SPACE-BAR key , to roll the dice 🎲 . Your piece will move automatically , wait for your turn , roll the dice 🎲 again , and
+The gameplay is very simple to understand . Just use the SPACE-BAR key , to roll the diceS 🎲 . Your piece will move automatically , wait for your turn , roll the dice 🎲 again , and
 #### BINGO 🎊 , you are ready to play SNAKES AND LADDERS .
 
 ### # Technology Stack :
